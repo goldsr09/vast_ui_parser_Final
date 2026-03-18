@@ -1,0 +1,7 @@
+*.csv
+*.db
+*.pkl
+*.pth
+*.png
+.DS_Store
+__pycache__/
